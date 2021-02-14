@@ -1,0 +1,750 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JournalistBlogily\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-02-18 19:06+0000\n"
+"PO-Revision-Date: 2019-02-18 19:12+0000\n"
+"Last-Translator: thdk <t.dekiere@gmail.com>\n"
+"Language-Team: Nederlands\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.9"
+
+#: header.php:48
+msgid "Skip to content"
+msgstr ""
+
+#: footer.php:29
+msgid "Y"
+msgstr ""
+
+#: footer.php:32
+msgid " | WordPress Theme by"
+msgstr ""
+
+#: footer.php:32
+msgid " SuperbThemes"
+msgstr ""
+
+#: comments.php:36
+msgid "One comment"
+msgstr ""
+
+#. %s: number of comments
+#: comments.php:39
+#, php-format
+msgid "%s Commment"
+msgid_plural "%s Commments"
+msgstr[0] "%s Reactie"
+msgstr[1] "%s Reacties"
+
+#: comments.php:46 comments.php:67
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:49 comments.php:70
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:50 comments.php:71
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:84
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:55
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:124
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:125
+msgid ""
+"Widgets in this sidebar will appear throughout the site. It is the default "
+"sidebar if no others are in use."
+msgstr ""
+
+#: functions.php:134
+msgid "Footer Widgets"
+msgstr ""
+
+#: functions.php:135
+msgid "Widgets appearing above the footer of the site."
+msgstr ""
+
+#: functions.php:382
+msgid "Journalist Blogily"
+msgstr ""
+
+#: functions.php:391
+msgid "Welcome to Journalist Blogily!"
+msgstr ""
+
+#: functions.php:397 functions.php:400
+msgid "Contact Support"
+msgstr ""
+
+#: functions.php:398
+msgid ""
+"Getting started with a new theme can be difficult, if you have issues with "
+"Journalist Blogily then throw us an email."
+msgstr ""
+
+#: functions.php:406
+msgid "View our other themes"
+msgstr ""
+
+#: functions.php:407
+msgid ""
+"Do you like our concept but feel like the design doesn't fit your need? Then "
+"check out our website for more designs."
+msgstr ""
+
+#: functions.php:409
+msgid "View All Themes"
+msgstr ""
+
+#: functions.php:415 justinadlock-customizer-button/class-customize.php:76
+msgid "Premium Edition"
+msgstr ""
+
+#: functions.php:416
+msgid ""
+"If you enjoy Journalist Blogily and want to take your website to the next "
+"step, then check out our premium edition here."
+msgstr ""
+
+#: functions.php:418
+msgid "Read More"
+msgstr ""
+
+#: functions.php:426
+msgid "Free Vs Premium"
+msgstr ""
+
+#: functions.php:429
+msgid "Read Full Description"
+msgstr ""
+
+#: functions.php:432
+msgid "View Theme Demo"
+msgstr ""
+
+#: functions.php:440
+msgid "Theme Feature"
+msgstr ""
+
+#: functions.php:441
+msgid "Basic Version"
+msgstr ""
+
+#: functions.php:442
+msgid "Premium Version"
+msgstr ""
+
+#: functions.php:448
+msgid "Right/Left Sidebar"
+msgstr ""
+
+#: functions.php:449 functions.php:450 functions.php:454 functions.php:455
+#: functions.php:459 functions.php:460 functions.php:464 functions.php:465
+#: functions.php:469 functions.php:470 functions.php:474 functions.php:475
+#: functions.php:480 functions.php:485 functions.php:490 functions.php:495
+#: functions.php:500 functions.php:506 functions.php:511 functions.php:516
+#: functions.php:521 functions.php:526 functions.php:532 functions.php:537
+msgid "Yes"
+msgstr ""
+
+#: functions.php:453
+msgid "Custom Sidebar Colors"
+msgstr ""
+
+#: functions.php:458
+msgid "Hide Sidebar"
+msgstr ""
+
+#: functions.php:463
+msgid "Hide Navigation Title"
+msgstr ""
+
+#: functions.php:468
+msgid "Custom Navigation Colors"
+msgstr ""
+
+#: functions.php:473
+msgid "Custom Background Image/Color"
+msgstr ""
+
+#: functions.php:478
+msgid "Premium Support"
+msgstr ""
+
+#: functions.php:479 functions.php:484 functions.php:489 functions.php:494
+#: functions.php:499 functions.php:505 functions.php:510 functions.php:515
+#: functions.php:520 functions.php:525 functions.php:531 functions.php:536
+msgid "No"
+msgstr ""
+
+#: functions.php:483
+msgid "Recent Posts Extended"
+msgstr ""
+
+#: functions.php:488
+msgid "SEO Plugin"
+msgstr ""
+
+#: functions.php:493
+msgid "Easy Google Fonts"
+msgstr ""
+
+#: functions.php:498
+msgid "Pagespeed Plugin"
+msgstr ""
+
+#: functions.php:504
+msgid "Customize Footer Color"
+msgstr ""
+
+#: functions.php:509
+msgid "Custom Footer Copyright Text"
+msgstr ""
+
+#: functions.php:514
+msgid "Custom Blog Colors"
+msgstr ""
+
+#: functions.php:519
+msgid "Custom Post Colors"
+msgstr ""
+
+#: functions.php:524
+msgid "Custom Page Colors"
+msgstr ""
+
+#: functions.php:530
+msgid "Custom Footer Colors"
+msgstr ""
+
+#: functions.php:535
+msgid "Custom Scroll To Top Colors"
+msgstr ""
+
+#: image.php:28
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" "
+"datetime=\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" "
+"title=\"Link to full-size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" "
+"title=\"Return to %7$s\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+
+#: image.php:38 image.php:104 page-templates/page-client.php:38
+#: components/features/testimonials/content-testimonial-single.php:35
+msgid "Edit"
+msgstr ""
+
+#: image.php:42
+msgid "&larr; Previous"
+msgstr "&larr; Vorige"
+
+#: image.php:43
+msgid "Next &rarr;"
+msgstr ""
+
+#: image.php:90 page-templates/page-client.php:33
+#: components/post/content.php:69 components/page/content-page.php:38
+#: components/features/frontpage/front-subpage.php:37
+msgid "Pages:"
+msgstr ""
+
+#: image.php:96
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: image.php:98
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-"
+"link\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback\">"
+"Trackback URL</a>."
+msgstr ""
+
+#: image.php:100
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" "
+"href=\"#respond\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: image.php:102
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "Navigation"
+msgstr ""
+
+#: inc/customizer.php:32 inc/customizer.php:68 inc/customizer.php:92
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer.php:45 inc/customizer.php:155
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:58
+msgid "Logo Color"
+msgstr ""
+
+#: inc/customizer.php:64
+msgid "Header Text Color"
+msgstr ""
+
+#: inc/customizer.php:69
+msgid "Choose a color for the background."
+msgstr ""
+
+#: inc/customizer.php:80
+msgid "Sidebar "
+msgstr ""
+
+#: inc/customizer.php:105
+msgid "Headline Color"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Headline Border Color"
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "Button Background Color"
+msgstr ""
+
+#: inc/customizer.php:181
+msgid "Button Text Color"
+msgstr ""
+
+#: inc/customizer.php:194
+msgid "Show sitename in menu bar?"
+msgstr ""
+
+#: inc/customizer.php:209
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "Change the default display options for the theme."
+msgstr ""
+
+#: inc/customizer.php:228
+msgid "Sidebar position"
+msgstr ""
+
+#: inc/customizer.php:230
+msgid "No sidebar"
+msgstr ""
+
+#: inc/customizer.php:231
+msgid "Sidebar right"
+msgstr ""
+
+#: inc/customizer.php:232
+msgid "Sidebar left"
+msgstr ""
+
+#. %s is the front page section name
+#: inc/customizer.php:256
+#, php-format
+msgid "%s Page Content"
+msgstr ""
+
+#: inc/customizer.php:257
+msgid ""
+"Select pages to feature in each area from the dropdowns. Add an image to a "
+"section by setting a featured image in the page editor. Empty sections will "
+"not be displayed."
+msgstr ""
+
+#. %s: post author name
+#: inc/template-tags.php:41
+#, php-format
+msgctxt "post author"
+msgid "By %s"
+msgstr "Door %s"
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:52
+msgid "</li><li>"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:71
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:73 inc/template-tags.php:281
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:92
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:92
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:92
+msgid "% Comments"
+msgstr "Reacties"
+
+#: inc/template-tags.php:156 inc/template-tags.php:161
+#: inc/template-tags.php:166 inc/template-tags.php:171
+#: inc/template-tags.php:178
+msgid "Continue Reading "
+msgstr "Lees verder"
+
+#: inc/template-tags.php:156 inc/template-tags.php:166
+#: inc/template-tags.php:171 inc/template-tags.php:178
+msgid "Continue Reading"
+msgstr "Lees verder"
+
+#: inc/template-tags.php:217
+msgid "About "
+msgstr ""
+
+#: inc/template-tags.php:219
+msgid "the Author"
+msgstr ""
+
+#: inc/template-tags.php:235
+msgid "All posts by"
+msgstr "Alle berichten van"
+
+#: inc/template-tags.php:239
+msgid "Website"
+msgstr ""
+
+#: inc/template-tags.php:245
+msgid "Hide"
+msgstr ""
+
+#: inc/template-tags.php:258
+msgid "First posted: "
+msgstr ""
+
+#: inc/template-tags.php:310
+msgid "Home"
+msgstr ""
+
+#: inc/template-tags.php:312
+msgid "You are here:"
+msgstr ""
+
+#: inc/template-tags.php:419
+msgid "Post navigation"
+msgstr ""
+
+#: inc/template-tags.php:422
+msgctxt "Previous post"
+msgid "Previous Post:"
+msgstr "Vorig bericht:"
+
+#: inc/template-tags.php:423
+msgctxt "Next post"
+msgid "Next Post:"
+msgstr "Volgend bericht:"
+
+#: inc/template-tags.php:442
+msgid "Previous"
+msgstr "Vorig"
+
+#: inc/template-tags.php:443
+msgid "Next"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:91
+msgid "Pages: Individual Service Pages"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:119
+msgid "Page: Services"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:155
+msgid "Clients"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:167
+msgid "Pages: Individual Client Pages"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:176
+msgid "Page: Clients"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:238
+msgid "Page: About"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:266
+msgid "Latest Projects"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:283
+msgid "View Full Portfolio &rarr;"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:289
+msgid "Jetpack Portfolio Projects"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:345
+msgid "Jetpack Testimonials"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:372
+msgid "Latest Articles"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:386
+msgid "See More Articles &rarr;"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:394
+msgid "Blog"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:428
+msgid "Page: Contact"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:442
+msgid "Notifications"
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:444
+#, php-format
+msgid "You have %s incomplete Front Page sections."
+msgstr ""
+
+#: page-templates/frontpage-portfolio.php:445
+msgid ""
+"Complete the sections listed below OR turn off notifications in the Theme "
+"Customizer."
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#. Name of the template
+msgid "Client Page"
+msgstr ""
+
+#: page-templates/page-client.php:13
+msgid "Client Page:"
+msgstr ""
+
+#. Name of the template
+msgid "Show Child Pages"
+msgstr ""
+
+#. %s: Name of current post
+#: page-templates/page-child-pages.php:87
+#: components/features/frontpage/front-subpage.php:53
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#. Name of the template
+msgid "Sidebar Left"
+msgstr ""
+
+#. Name of the template
+msgid "No Sidebar (Narrow Width)"
+msgstr ""
+
+#. Name of the template
+msgid "Sidebar Right"
+msgstr ""
+
+#: justinadlock-customizer-button/class-customize.php:77
+msgid "Get All Features"
+msgstr ""
+
+#: components/navigation/navigation-top.php:9
+msgid "Menu"
+msgstr ""
+
+#. %s: Name of current post.
+#: components/post/content.php:64 components/post/content-aside.php:39
+#: components/features/testimonials/content-testimonial.php:37
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Lees verder %s <span class=\"meta-nav\">&rarr;</span>"
+
+#: components/post/content-none.php:16 components/post/content-none.php:19
+msgid "Nothing found"
+msgstr ""
+
+#: components/post/content-none.php:17
+msgid "Nothing found for "
+msgstr "Niets gevonden voor"
+
+#: components/post/content-none.php:18
+msgid "Additional Setup required"
+msgstr ""
+
+#. %1$s: link to create a new post
+#: components/post/content-none.php:29
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: components/post/content-none.php:34
+msgid ""
+"Are you lost? Try another search below or click one of the latest posts."
+msgstr ""
+
+#: components/post/content-none.php:39
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Sorry, geen enkel bericht werd gevonden voor deze zoekopdracht. Probeer het "
+"opnieuw met een andere zoekopdracht."
+
+#: components/post/content-none.php:44
+msgid ""
+"Please check the following THREE conditions to display client projects on "
+"this page:"
+msgstr ""
+
+#: components/post/content-none.php:46
+msgid "Be sure Jetpack and its Portfolio custom content type are activated."
+msgstr ""
+
+#: components/post/content-none.php:47
+msgid ""
+"In THIS PAGE assign a custom meta key of client with a value of the Clients "
+"name ie client WordPress."
+msgstr ""
+
+#: components/post/content-none.php:48
+msgid ""
+"On every Client Project page (i.e. something created for WordPress), be sure "
+"to Tag it with the same Client name."
+msgstr ""
+
+#: components/post/content-none.php:54
+msgid ""
+"It seems we cant find what you are looking for. Perhaps searching can help."
+msgstr ""
+
+#: components/post/content-none.php:64
+msgid "Recent Posts:"
+msgstr ""
+
+#: components/page/content-child-page.php:16
+#: components/page/content-child-page.php:23
+#: components/page/content-child-page.php:33
+msgid "See more info about "
+msgstr ""
+
+#: components/features/portfolio/portfolio.php:15
+msgid "Paged: "
+msgstr ""
+
+#: components/features/portfolio/portfolio.php:30
+msgid "Projects"
+msgstr ""
+
+#: components/features/portfolio/portfolio.php:54
+#: components/features/testimonials/testimonial.php:44
+msgid "Nothing Found"
+msgstr ""
+
+#. %1$s: link to create a new Jetpack Portfolio post
+#: components/features/portfolio/portfolio.php:61
+#, php-format
+msgid ""
+"Ready to publish your first project? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: components/features/portfolio/portfolio.php:66
+#: components/features/testimonials/testimonial.php:56
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. %1$s: link to create a new Jetpack Testimonial post
+#: components/features/testimonials/testimonial.php:51
+#, php-format
+msgid ""
+"Ready to add your first testimonial? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: components/features/frontpage/front-services.php:19
+msgid "Learn more about "
+msgstr ""
+
+#: components/features/frontpage/front-services.php:32
+msgid "Learn More &rarr;"
+msgstr ""
+
+#: components/features/frontpage/front-testimonials.php:15
+msgid "Read more&hellip;"
+msgstr ""
+
+#: components/features/frontpage/front-clients.php:11
+msgid "See all Projects for "
+msgstr ""
+
+#. Name of the theme
+msgid "JournalistBlogily"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"JournalistBlogily is a responsive blog theme made for personal bloggers and "
+"lifestyle bloggers. Its beautiful and minimalistic look gives this theme a "
+"perfectly stylized image whether you're a food-, fashion-, travel- or "
+"lifestyle blogger. Theme Everest are always invested in all forms of "
+"optimization and JournalistBlogily is no exception. In JournalistBlogily "
+"you'll find a stylized and highly optimized theme with swift load times "
+"across the board without any loss of perfomance and responsiveness. All this "
+"is bundled with our built-in first-class SEO ( Search Engine Optimization ) "
+"which will help you get a head start on search engines like Google and Bing. "
+"Get ready to be noticed, with JournalistBlogily."
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeEverest"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://superbthemes.com/"
+msgstr ""
